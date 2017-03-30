@@ -1,0 +1,6 @@
+d:\我的配置\my documents\visual studio 2017\Projects\ThreeDemo\ThreeDemo\bin\Debug\ThreeDemo.exe.config
+d:\我的配置\my documents\visual studio 2017\Projects\ThreeDemo\ThreeDemo\bin\Debug\ThreeDemo.exe
+d:\我的配置\my documents\visual studio 2017\Projects\ThreeDemo\ThreeDemo\bin\Debug\ThreeDemo.pdb
+d:\我的配置\my documents\visual studio 2017\Projects\ThreeDemo\ThreeDemo\obj\Debug\ThreeDemo.exe
+d:\我的配置\my documents\visual studio 2017\Projects\ThreeDemo\ThreeDemo\obj\Debug\ThreeDemo.pdb
+d:\我的配置\my documents\visual studio 2017\Projects\ThreeDemo\ThreeDemo\obj\Debug\ThreeDemo.csprojResolveAssemblyReference.cache
