@@ -15,6 +15,7 @@ namespace ThreeDemo
         {
 
 
+
             #region 单例模式
             Parallel.For(0, 100, item =>
             {
